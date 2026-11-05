@@ -19,7 +19,7 @@ The exam tests whether you understood the *ideas*, not whether you memorized sli
 
 1. Re-read each lecture's slides once (links below), then work through that week's section here.
 2. For each **Key terms** entry, make sure you can define it in one sentence *and* say how it differs from its neighbours.
-3. Read the [required paper](required-paper.md) in full. The exam asks about its main claim, its evidence and what it means for working with agents, not its fine details. The other readings in each week's section are background: useful, but not examined on their own.
+3. Read the [required paper](required-paper.md) using the three-pass method on that page. The exam asks about its main claim, its evidence and what it means for working with agents, not its fine details. The other readings in each week's section are background: useful, but not examined on their own.
 4. Finish with the [self-check questions](self-check-questions.md). If you cannot answer one, go back to that week.
 
 The five lectures were taught in this order: Week 1, Week 2, Week 3, Context Management, Codebase Structure. The repository folders number them `01`–`05` with the last two swapped. Nothing on the exam depends on the week numbers.
@@ -38,6 +38,6 @@ Work through the weeks in the order they were taught, then the cross-cutting the
 | Week 4 | [Advanced Context Management](04-advanced-context-management.md) | Context taxonomy, assembly and discovery, session management, MCP fundamentals |
 | Week 5 | [Agentic Codebase Structure](05-agentic-codebase-structure.md) | Skills, rules, hooks, subagents, MCP configuration, cloud agents, and the ACI / AGENTS.md readings |
 | | [Cross-cutting themes](cross-cutting-themes.md) | Seven ideas that span weeks and that the exam likes |
-| | [Required paper](required-paper.md) | The one paper you must read for the exam, and what to take from it |
+| | [Required paper](required-paper.md) | How to read a research paper, worked through on the one paper you must read for the exam |
 | | [Background-reading checklist](reading-checklist.md) | The other readings from Weeks 1–5, for background |
 | | [Self-check questions](self-check-questions.md) | 25 exam-style questions with answers |
